@@ -18,4 +18,5 @@
 - [ ] Homotopy lifting property as a consequence of choice
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
+- [ ] 2-Segal horns and 2-Segal spines
 - [x] Sleep deprivation
