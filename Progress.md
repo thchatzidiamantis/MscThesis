@@ -19,4 +19,8 @@
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
 - [ ] 2-Segal horns and 2-Segal spines
+
+---
+
+- [ ] Make sure all links go to the right pieces of code before sending to Floris
 - [x] Sleep deprivation
