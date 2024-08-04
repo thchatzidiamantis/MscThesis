@@ -2,6 +2,8 @@
 
 ![unnamed](https://github.com/user-attachments/assets/5b698828-3fb1-42ef-9237-6ff345d71d2c)
 
+> 04-08.08.2024
+
 - [x] Appendix with contributed HoTT proofs, short explanations
 - [ ] Introduction for chapter 3
 - [ ] Improve introduction for chapter 5
@@ -9,13 +11,14 @@
 - [ ] Prove that the Rezk nerve is a complete Segal space
 - [ ] The other side of the Qcat-CSS Quillen equivalence
 - [ ] Remark on the $\infty$-category of spaces
-- [ ] Short section on type families as fibrations
+- [x] Short section on type families as fibrations
 - [ ] Short section on why not all types are sets under univalence
 - [ ] Write the proofs about flagged categories
 - [ ] In the same chapter, short note on univalent 1-categories and the Rezk completion
 - [ ] Mention that the Segal condition can be reduced to "local wrt horn inclusion" at the start of chapter 6
 - [ ] Improve explanation of extension types
-- [ ] Homotopy extension property as a consequence of choice
+- [ ] Add homotopy extension types and the equivalence formalized in Rzk
+- [x] Homotopy extension property as a consequence of choice and extext
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
 - [ ] 2-Segal horns and 2-Segal spines
