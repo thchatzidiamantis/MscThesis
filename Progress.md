@@ -15,7 +15,7 @@
 - [ ] In the same chapter, short note on univalent 1-categories and the Rezk completion
 - [ ] Mention that the Segal condition can be reduced to "local wrt horn inclusion" at the start of chapter 6
 - [ ] Improve explanation of extension types
-- [ ] Homotopy lifting property as a consequence of choice
+- [ ] Homotopy extension property as a consequence of choice
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
 - [ ] 2-Segal horns and 2-Segal spines
