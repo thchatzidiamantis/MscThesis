@@ -6,7 +6,7 @@
 
 - [x] Appendix with contributed HoTT proofs, short explanations
 - [x] Introduction for chapter 3
-- [ ] Improve introduction for chapter 5
+- [x] Improve introduction for chapter 5
 - [ ] Fix some references on model categories and quasicategories
 - [ ] Mention that the Segal condition on simplicial sets is not that interesting
 - [ ] Prove that the Rezk nerve is a complete Segal space
