@@ -16,7 +16,7 @@
 - [ ] Finish truncations part, loop spaces
 - [ ] Short section on how to do logic with propositions why not all types are sets under univalence
 - [ ] Write the proofs about flagged categories
-- [ ] In the same chapter, short note on univalent 1-categories and the Rezk completion
+- [x] In the same chapter, short note on univalent 1-categories and the Rezk completion
 - [ ] Mention that the Segal condition can be reduced to "local wrt horn inclusion" at the start of chapter 5, state the analogous sHoTT theorem
 - [x] Improve explanation of extension types
 - [x] Add homotopy extension types and the equivalence formalized in Rzk
