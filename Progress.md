@@ -5,7 +5,7 @@
 > 04-08.08.2024
 
 - [x] Appendix with contributed HoTT proofs, short explanations
-- [ ] Introduction for chapter 3
+- [x] Introduction for chapter 3
 - [ ] Improve introduction for chapter 5
 - [ ] Fix some references on model categories and quasicategories
 - [ ] Mention that the Segal condition on simplicial sets is not that interesting
