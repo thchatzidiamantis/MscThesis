@@ -18,7 +18,7 @@
 - [ ] In the same chapter, short note on univalent 1-categories and the Rezk completion
 - [ ] Mention that the Segal condition can be reduced to "local wrt horn inclusion" at the start of chapter 5, state the analogous sHoTT theorem
 - [x] Improve explanation of extension types
-- [ ] Add homotopy extension types and the equivalence formalized in Rzk
+- [x] Add homotopy extension types and the equivalence formalized in Rzk
 - [x] Homotopy extension property as a consequence of choice and extext
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
