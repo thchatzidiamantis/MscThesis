@@ -8,7 +8,7 @@
 - [x] Introduction for chapter 3
 - [x] Improve introduction for chapter 5
 - [ ] Fix some references on model categories and quasicategories
-- [ ] Mention that the Segal condition on simplicial sets is not that interesting
+- [x] Mention that the Segal condition on simplicial sets is not that interesting
 - [ ] Prove that the Rezk nerve is a complete Segal space
 - [ ] The other side of the Qcat-CSS Quillen equivalence
 - [x] Remark on the $\infty$-category of spaces
