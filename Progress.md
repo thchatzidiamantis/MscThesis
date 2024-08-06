@@ -14,7 +14,7 @@
 - [x] Remark on the $\infty$-category of spaces
 - [x] Short section on type families as fibrations
 - [x] Finish truncations part, loop spaces
-- [ ] Short section on how to do logic with propositions why not all types are sets under univalence
+- [x] Short section on how to do logic with propositions why not all types are sets under univalence
 - [ ] Write the proofs about flagged categories
 - [x] In the same chapter, short note on univalent 1-categories and the Rezk completion
 - [x] Mention that the Segal condition can be reduced to "local wrt horn inclusion" at the start of chapter 5, state the analogous sHoTT theorem
