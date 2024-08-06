@@ -13,7 +13,7 @@
 - [ ] The other side of the Qcat-CSS Quillen equivalence
 - [x] Remark on the $\infty$-category of spaces
 - [x] Short section on type families as fibrations
-- [ ] Finish truncations part, loop spaces
+- [x] Finish truncations part, loop spaces
 - [ ] Short section on how to do logic with propositions why not all types are sets under univalence
 - [ ] Write the proofs about flagged categories
 - [x] In the same chapter, short note on univalent 1-categories and the Rezk completion
