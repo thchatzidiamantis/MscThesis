@@ -21,6 +21,7 @@
 - [x] Improve explanation of extension types
 - [x] Add homotopy extension types and the equivalence formalized in Rzk
 - [x] Homotopy extension property as a consequence of choice and extext
+- [ ] Explanation of my latest PR
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
 - [x] 2-Segal horns and 2-Segal spines
