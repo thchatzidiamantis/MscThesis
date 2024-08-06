@@ -10,7 +10,7 @@
 - [ ] Fix some references on model categories and quasicategories
 - [x] Mention that the Segal condition on simplicial sets is not that interesting
 - [ ] Prove that the Rezk nerve is a complete Segal space
-- [ ] The other side of the Qcat-CSS Quillen equivalence
+- [x] The other side of the Qcat-CSS Quillen equivalence
 - [x] Remark on the $\infty$-category of spaces
 - [x] Short section on type families as fibrations
 - [x] Finish truncations part, loop spaces
