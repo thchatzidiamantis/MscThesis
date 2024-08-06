@@ -11,7 +11,7 @@
 - [ ] Mention that the Segal condition on simplicial sets is not that interesting
 - [ ] Prove that the Rezk nerve is a complete Segal space
 - [ ] The other side of the Qcat-CSS Quillen equivalence
-- [ ] Remark on the $\infty$-category of spaces
+- [x] Remark on the $\infty$-category of spaces
 - [x] Short section on type families as fibrations
 - [ ] Finish truncations part, loop spaces
 - [ ] Short section on how to do logic with propositions why not all types are sets under univalence
