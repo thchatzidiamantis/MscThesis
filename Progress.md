@@ -23,7 +23,8 @@
 - [x] Homotopy extension property as a consequence of choice and extext
 - [ ] Finish proof of dependent composition
 - [ ] One example where Rezk types are needed
-- [ ] 2-Segal horns and 2-Segal spines
+- [x] 2-Segal horns and 2-Segal spines
+- [ ] Finish 2-Segal spaces section
 
 ---
 
