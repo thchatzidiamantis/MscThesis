@@ -7,7 +7,7 @@
 - [x] Appendix with contributed HoTT proofs, short explanations
 - [x] Introduction for chapter 3
 - [x] Improve introduction for chapter 5
-- [ ] Fix some references on model categories and quasicategories
+- [x] Fix some references on model categories and quasicategories
 - [x] Mention that the Segal condition on simplicial sets is not that interesting
 - [ ] Prove that the Rezk nerve is a complete Segal space
 - [x] The other side of the Qcat-CSS Quillen equivalence
